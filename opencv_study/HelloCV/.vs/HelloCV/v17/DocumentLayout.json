@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch10_Color_Study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\ch10_Color_Study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\CH9_detect_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\CH9_detect_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Ch_4VideoCapture_Class_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\Ch_4VideoCapture_Class_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Tip_error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\Tip_error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch4_histogram_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\ch4_histogram_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Mat_operator_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\Mat_operator_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch4_drawing_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F231DF78-C1A6-44C1-832E-943435F1D79A}|HelloCV\\HelloCV.vcxproj|solutionrelative:HelloCV\\ch4_drawing_study.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ch10_Color_Study.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch10_Color_Study.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\ch10_Color_Study.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch10_Color_Study.cpp",
+              "RelativeToolTip": "HelloCV\\ch10_Color_Study.cpp",
+              "ViewState": "AQIAAKsAAACAQzmhugwpwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T02:04:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tip_error.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Tip_error.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\Tip_error.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Tip_error.cpp",
+              "RelativeToolTip": "HelloCV\\Tip_error.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T17:07:38.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CH9_detect_study.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\CH9_detect_study.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\CH9_detect_study.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\CH9_detect_study.cpp",
+              "RelativeToolTip": "HelloCV\\CH9_detect_study.cpp",
+              "ViewState": "AQIAACkAAACA4lUmtZcywDIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T06:16:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ch_4VideoCapture_Class_study.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Ch_4VideoCapture_Class_study.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\Ch_4VideoCapture_Class_study.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Ch_4VideoCapture_Class_study.cpp",
+              "RelativeToolTip": "HelloCV\\Ch_4VideoCapture_Class_study.cpp",
+              "ViewState": "AQIAAAoAAAAAhfKazgkIwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T07:05:00.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ch4_histogram_study.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch4_histogram_study.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\ch4_histogram_study.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch4_histogram_study.cpp",
+              "RelativeToolTip": "HelloCV\\ch4_histogram_study.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAEwDoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T04:56:46.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ch4_drawing_study.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch4_drawing_study.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\ch4_drawing_study.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\ch4_drawing_study.cpp",
+              "RelativeToolTip": "HelloCV\\ch4_drawing_study.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAzwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T08:07:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mat_operator_study.cpp",
+              "DocumentMoniker": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Mat_operator_study.cpp",
+              "RelativeDocumentMoniker": "HelloCV\\Mat_operator_study.cpp",
+              "ToolTip": "C:\\git_study\\my_repository\\opencv_study\\HelloCV\\HelloCV\\Mat_operator_study.cpp",
+              "RelativeToolTip": "HelloCV\\Mat_operator_study.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T04:37:21.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
